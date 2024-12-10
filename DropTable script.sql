@@ -1,0 +1,13 @@
+DROP TABLE IF EXISTS club ;
+DROP TABLE IF EXISTS Members ;
+DROP TABLE IF EXISTS Clubgroup ;
+DROP TABLE IF EXISTS groupEvent ;
+DROP TABLE IF EXISTS project ;
+DROP TABLE IF EXISTS Alum_worksfor_Company;
+DROP TABLE IF EXISTS Member_Lead_club;
+DROP TABLE IF EXISTS Member_Head_Clubgroup ;
+DROP TABLE IF EXISTS Member_Join_Clubgroup ;
+DROP TABLE IF EXISTS Club_has_Clubgroup;
+DROP TABLE IF EXISTS Group_Orgenize_groupEvent;
+DROP TABLE IF EXISTS Groups_worksOn_Project;
+DROP TABLE IF EXISTS Project_Fund_Member;
